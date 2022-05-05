@@ -1,0 +1,15 @@
+= qp8db
+Michael D Henderson <doc@example.com>
+v1.0, 2022-05-04
+:doctype: book
+:sectnums:
+:sectnumlevels: 5
+:partnums:
+:toc: right
+:toclevels: 3
+
+:sectnums!:
+== Preface
+
+
+qp8db is a pure Go play at parsing a data query language.
